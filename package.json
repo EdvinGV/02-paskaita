@@ -1,0 +1,16 @@
+{
+  "name": "02-paskaita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p3": "dead-server --host=localhost --port=2304"
+  },
+  "keywords": [],
+  "author": "Edvinas <edvingvozdovic@gmail.com> (https://github.com/EdvinGV)",
+  "license": "MIT",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
